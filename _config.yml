@@ -1,7 +1,7 @@
 title:            Ryan Eager
 description:      Personal Homepage for Ryan Eager
 disqus_shortname: ryaneager
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
