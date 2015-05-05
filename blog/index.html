@@ -20,13 +20,6 @@ image:
     {% endif %}
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url/blog }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url/blog }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
-      {% if site.reading_time %}
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
-        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-      </span><!-- /.entry-reading-time -->
-      {% endif %}
     </div><!-- /.entry-meta -->
     {% if post.link %}
       <h1 class="entry-title"><a href="{{ site.url/blog }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
@@ -43,9 +36,9 @@ image:
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url/blog/blog }}" class="btn">Previous</a>
+      <a href="{{ site.url/blog }}" class="btn">Previous</a>
     {% else %}
-      <a href="{{ site.url/blog/blog }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+      <a href="{{ site.url/blog }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
     {% endif %}
   {% else %}
     Previous
@@ -55,7 +48,7 @@ image:
       {% if paginator.page == 1 %}
         <span class="current-page">1</span>
       {% else %}
-        <a href="{{ site.url/blog/blog }}">1</a>
+        <a href="{{ site.url/blog }}">1</a>
       {% endif %}
     </li>
     {% for count in (2..paginator.total_pages) %}
