@@ -16,7 +16,6 @@ This is my site, there are many like it, but this one is mine. It will be mostly
 
  * I've been programing for 6+ years
  * I speak Java, Python, C, Ruby and a little Haskell,
-
    and I'm always ready to learn new languages. 
 
  * I know OSX, Linux, and Windows, but who doesn't these days?
