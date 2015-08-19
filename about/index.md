@@ -15,9 +15,7 @@ This is my site, there are many like it, but this one is mine. It will be mostly
 ## A quick little about me:
 
  * I've been programing for 6+ years
- * I speak Java, Python, C, Ruby and a little Haskell,
-   and I'm always ready to learn new languages. 
-
+ * I speak Java, Python, C, Ruby and a little Haskell.
  * I know OSX, Linux, and Windows, but who doesn't these days?
  * I am currently looking for work in the Bay Area.
 
