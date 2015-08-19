@@ -12,7 +12,8 @@ modified: 2015-08-18
 ####Hello,
 This is my site, there are many like it, but this one is mine. It will be mostly dedicated to various side projects, and blog posts, when I get around to writing them. 
 
-A quick little about me:
+## A quick little about me:
+
  * I've been programing for 6+ years
  * I speak Java, Python, C, Ruby and a little Haskell,
    and I'm always ready to learn new languages. 
