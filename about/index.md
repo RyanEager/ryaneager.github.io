@@ -10,7 +10,7 @@ share: false
 modified: 2015-08-18
 ---
 ###Hello,
-This is my site, there are many like it, but this one is mine. It will be mostly dedicated to various side projects, and blog posts, when I get around to writing them. 
+This is my site, there are many like it, but this one is mine. It will mostly be dedicated to various side projects and blog posts. 
 
 ## A quick little about me:
 
