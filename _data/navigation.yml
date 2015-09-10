@@ -1,4 +1,6 @@
 # Menu navigation links
 
 # - title: Blog
-  # url: /blog
+#   url: /blog
+- title: Projects
+  url: /projects
