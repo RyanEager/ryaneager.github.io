@@ -13,6 +13,7 @@ Yesterday Apple announced the [Apple Pencil](http://www.apple.com/apple-pencil/)
 I would not declare myself as an Apple fan boy, but I do enjoy their products and have many of there products. 
 
 The following quote has been thrown around on many sites
+
 >Q: How do you close applications when multitasking? 
 >A: (Scott Forstall) You don't have to. The user just uses things and doesn't ever have to worry about it. 
 >A: (Steve Jobs) It's like we said on the iPad, if you see a stylus, they blew it. In multitasking, if you see a task manager... they blew it. Users shouldn't ever have to think about it.
