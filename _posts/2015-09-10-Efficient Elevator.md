@@ -3,7 +3,7 @@ layout: post
 title: Idea: The Efficient Elevator
 description: "A way to improve elevators"
 modified: 2015-09-10
-tags: [Ideas]
+tags: [ideas]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
