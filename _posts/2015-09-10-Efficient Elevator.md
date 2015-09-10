@@ -4,10 +4,6 @@ title: Idea: The Efficient Elevator
 description: "A way to improve elevators"
 modified: 2015-09-10
 tags: [ideas]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 I think it is wasteful for an elevator to stop at consecutive floors. I know that I am more than willing to walk up or down at least one flight of stairs, and I believe that others are too. I think the annoyance of a busy elevator could be drastically reduced if it did not stop and consecutive floors and instead assumed people were willing to walk up or down at least a flight of stairs to get to their floor. This wouldn't require much change for current elevators. Given the set of floors that are selected, try and minimize stops by removing consecutive floors. A sign posted on the doors would act as a way of informing people that the elevator does not stop at consecutive floors. 
