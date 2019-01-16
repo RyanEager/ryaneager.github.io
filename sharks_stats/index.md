@@ -10,4 +10,5 @@ share: false
 modified: 2019-01-15
 ---
 # Sharks Stats:
-* [SJS vs OTT](/SJS_vs_OTT.html) 
+* [SJS vs OTT](/games/SJS_vs_OTT.html) 
+* [SJS vs PIT](/games/SJS_vs_PIT.html) 
