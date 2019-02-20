@@ -77,7 +77,7 @@ request.onload = function () {
 
     game_Pks.forEach(id => {
         document.getElementById(id).onclick = function() {
-            document.location.href = `/stats.html?gamePk=${id}`;
+            document.location.href = `/sharks_stats/stats.html?gamePk=${id}`;
         };
     });
 
