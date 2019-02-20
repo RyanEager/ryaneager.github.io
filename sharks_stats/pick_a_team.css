@@ -1,0 +1,25 @@
+td{
+	padding: 2px;
+}
+
+#lineup{
+	padding: 10px;
+}
+#wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+#container {
+    display: inline-block;
+    margin-top: 125px;
+}
+
+#status {
+	border-left: 3px solid gray;
+	padding-left: 5px;
+}
+
+#score {
+	padding-left: 3px;
+}
