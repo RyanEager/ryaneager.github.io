@@ -577,7 +577,7 @@ const colors = {
       white: pureWhite,
     },
   },
-  MEM: {
+  LAK: {
     fullName: 'Los Angeles Kings',
     mainColor: {
       hex: '#23375b',
