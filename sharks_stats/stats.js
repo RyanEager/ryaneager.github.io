@@ -461,7 +461,7 @@ const colors = {
     },
   },
   DET: {
-    fullName: 'Detroit RedWings',
+    fullName: 'Detroit Red Wings',
     mainColor: {
       hex: '#e51837',
       rgb: [229, 24, 55],
@@ -785,7 +785,7 @@ const colors = {
     },
   },
   TBL: {
-    fullName: 'Tampa Bay Lightning Kings',
+    fullName: 'Tampa Bay Lightning',
     mainColor: {
       hex: '#003D7C',
       rgb: [0,61,124],
